@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#bg-colour{
+    background: #FFF9F4;
+}
+.button-color{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+
+
+}
+.first-part{
+    
+    color: #FA804C;
+
+}
+    
+.second-part{
+    color:rgb(29, 28, 28);
+}
+.bg-color{
+    background-color: rgb(245, 240, 240);
+}
